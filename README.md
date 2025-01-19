@@ -12,6 +12,7 @@
 
 ## 🌟 Featured Projects
 - [**LEARN-MATCH Course Recommendation System**][https://github.com/PraneethVempati/AIS_project/tree/78c94f22eccea4d5ee443cbdbb573f54e293e80c] 
+
 Developed a course recommendation website that helps people who are interested in learning new courses.
 
 - [**Chatbot Using Large Language Models**]
