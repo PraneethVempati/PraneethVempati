@@ -11,19 +11,19 @@
 - **Frameworks and Tools**: TensorFlow, Keras, Scikit-Learn, OpenCV, Flask
 
 ## 🌟 Featured Projects
-- [**LEARN-MATCH Course Recommendation System**][https://github.com/PraneethVempati/AIS_project/tree/78c94f22eccea4d5ee443cbdbb573f54e293e80c] 
+- **LEARN-MATCH Course Recommendation System** https://github.com/PraneethVempati/AIS_project/tree/78c94f22eccea4d5ee443cbdbb573f54e293e80c
 
 Developed a course recommendation website that helps people who are interested in learning new courses.
 
-- [**Chatbot Using Large Language Models**]
+- **Chatbot Using Large Language Models**
 
 Developed an AI chatbot leveraging Large Language Models to enhance user interaction, achieving a 30% improvement in response quality.
 
-- [**Movie Recommendation System**]  
+- **Movie Recommendation System** 
 
 Created a personalized movie recommendation system using collaborative filtering, resulting in an 85% accuracy in user satisfaction.
 
-- [**Hand Gesture Recognition**]  
+- **Hand Gesture Recognition**  
 
 Implemented a real-time hand gesture recognition model using Convolutional Neural Networks with 95% accuracy.
 
