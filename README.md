@@ -16,12 +16,15 @@
 Developed a course recommendation website that helps people who are interested in learning new courses.
 
 - [**Chatbot Using Large Language Models**]
+
 Developed an AI chatbot leveraging Large Language Models to enhance user interaction, achieving a 30% improvement in response quality.
 
 - [**Movie Recommendation System**]  
+
 Created a personalized movie recommendation system using collaborative filtering, resulting in an 85% accuracy in user satisfaction.
 
 - [**Hand Gesture Recognition**]  
+
 Implemented a real-time hand gesture recognition model using Convolutional Neural Networks with 95% accuracy.
 
 ## 📈 Experience
