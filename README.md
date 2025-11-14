@@ -54,7 +54,7 @@ A quick snapshot of my core competencies, leveraging badges for a modern, scanna
 ---
 
 ## 🎓 Education
-* **Masters of Science**, **Artificial Intelligence Systems** – University of Florida, Gainesville, FL
+* **Master of Science**, **Artificial Intelligence Systems** – University of Florida, Gainesville, FL
     * *Coursework:* AI Systems, Machine Learning, Image Processing, Deep Learning
 * **Bachelors of Computer Science and Engineering** – Vellore Institute of Technology - AP
 
