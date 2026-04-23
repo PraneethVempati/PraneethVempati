@@ -1,76 +1,67 @@
-# SRI VENKATA MANIKYA PRANEETH VEMPATI
-### 🧠 M.S. in AI Systems | Machine Learning & Data Science Engineer
+# Praneeth Vempati
 
-👋 Hello! I'm **Praneeth Vempati**, an **AI Systems graduate student** at the **University of Florida** with a passion for transforming data into deployed AI solutions. I'm actively seeking **Full-Time** and **Internship** roles in Machine Learning, Data Science, and AI Engineering.
+MS in AI Systems · University of Florida  
+Machine Learning Engineer focused on generative AI evaluation, computer vision, and production ML systems.
+
+📍 Gainesville, FL &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/praneeth-vempati-14988b1a34) &nbsp;|&nbsp; [Email](mailto:praneeth444vempati@gmail.com)
+
+---
+## 🔬 Featured Work
+
+### [Hallucination Detection in Text-to-Image Generation (2026)] 
+A training-free, model-agnostic pipeline to detect visual hallucinations in Stable Diffusion v1.5 and SDXL-Turbo outputs.
+
+- VQA-based faithfulness scoring validated against the **POPE benchmark** with ROC-AUC measurement
+- Self-consistency signal: measured faithfulness variance across N generated images per prompt to flag systematically failing prompts
+- Deployed as a **5-tab Gradio app** on Hugging Face Spaces with live benchmarking (POPE, OK-VQA, Flickr30k) and downloadable plots
+
+> *Why it matters: most hallucination detection methods require fine-tuning or model access. This works out-of-the-box on any diffusion model.*
 
 ---
 
-## 💡 What I Do
-I build, deploy, and optimize Machine Learning models for real-world impact. My work has driven significant business results:
-* **Chatbot Solutions:** Increased user engagement by **50%** and optimized response times by **40%** using Large Language Models (LLMs) and advanced ML techniques.
-* **Time Series Forecasting:** Engineered models that improved demand predictions by **30%**, generating **15%** in cost savings.
-* **Operational Efficiency:** Automated HR processes for over 5,000 resumes monthly, leading to a **60% faster hiring cycle** and **35% improvement in shortlisted candidate quality**.
+## 🛠️ Projects
+
+| Project | Stack | What it does |
+|---|---|---|
+| **Medical Image Enhancement** | PyTorch, TensorFlow, U-Net | Enhanced X-rays/MRIs; disease detection pipeline evaluated on precision, recall, F1 |
+| **LEARN-Match Recommender** | Collaborative filtering, TF-IDF, Flask, React | Full-stack course recommendation system with cosine similarity ranking |
+| **Movie Recommendation Engine** | Collaborative filtering, Flask | Tailored movie suggestions via collaborative filtering backend |
 
 ---
 
-## 🛠️ My ML & Data Science Stack
-A quick snapshot of my core competencies, leveraging badges for a modern, scannable look:
+## 💼 Experience
 
-### 💻 Programming & ML Frameworks
-<p align="left">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge"/>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge"/>
-    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn Badge"/>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge"/>
-</p>
+**Research Assistant** · UF Levin College of Law *(Mar 2025 – Present)*  
+Built an interactive constitutional research platform with dynamic search and rendering for legal research use cases.
 
-### ☁️ Tools & Deployment
-<p align="left">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge"/>
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
-</p>
+**Data Science Intern** · SyrenCloud Technologies *(Jan – Jun 2024)*  
+- LLM-powered chatbot: **+50% user engagement**, **−40% response time**
+- Time series forecasting models: **+30% demand prediction accuracy**, **15% cost savings**
+
+**Data Analyst Intern** · VasysTron *(Jan – Jun 2023)*  
+- Automated evaluation of **5,000+ resumes/month** via Flask + AWS deployment
+- **60% faster** hiring cycle · **35% improvement** in candidate shortlisting quality
+
+**Research Intern** · IIT Guwahati *(Oct – Nov 2022)*  
+Hand Gesture Recognition using CNN — led end-to-end implementation under expert mentorship.
+
 
 ---
 
-## 🌟 Featured Projects (Impact Focused)
-| Project | Technology & Models | Key Achievement/Impact |
-| :--- | :--- | :--- |
-| **LEARN-Match Course Recommender** | Collaborative Filtering, Flask, React.js, TF-IDF, Cosine Similarity | Developed a full-stack course recommendation website. **Optimized recommendations** using advanced similarity metrics. |
-| **Medical Image Enhancement & Analysis** | Deep Learning (CNN, U-Net), Computational Photography | Implemented Deep Learning for **disease detection** on medical images (X-rays, MRIs) and built a 3D reconstruction pipeline. |
-| **Hand Gesture Recognition** | CNN Algorithms, Image Processing, Statistical Techniques | Led a research project at **IIT-Guwahati** achieving **enhanced recognition accuracy** in a 'Hand Gesture Recognition' system. |
-| **WhatsApp Chat Analysis** | NLP (Natural Language Processing), Matplotlib, Seaborn | Analyzed chat logs to predict **user sentiment and mood trends** using NLP and visualization. |
+## ⚙️ Stack
 
----
-
-## 💼 Professional Experience
-* **Data Science Intern** @ SyrenCloud Technologies (Jan 2024 - Jun 2024): Developed and deployed advanced ML models, including a chatbot with LLMs to enhance predictive accuracy and user engagement by **50%**.
-* **Machine Learning Intern** @ Bharat Intern (Sep 2023 - Oct 2023): Constructed supervised and unsupervised models and implemented robust data preprocessing/feature engineering techniques to ensure **high model accuracy**.
-* **Data Analyst Intern** @ VasysTron (Jan 2023 - Jun 2023): Deployed ML algorithms in Python integrated with HR systems processing 5,000+ resumes, improving recruitment efficiency by **40%** via Flask web deployment.
+**ML / AI:** PyTorch · TensorFlow · Scikit-Learn · Diffusers · Transformers · BLIP-VQA · CLIP · Stable Diffusion · OpenCV  
+**Languages:** Python · SQL · JavaScript · Java · PySpark · Rust  
+**Web & APIs:** FastAPI · Flask · React.js · Node.js · Django  
+**Cloud & DevOps:** AWS · Docker · Git · Jenkins · Red Hat Linux  
+**Data:** Pandas · NumPy · Tableau · Power BI · Matplotlib  
+**Databases:** PostgreSQL · MySQL · MongoDB
 
 ---
 
 ## 🎓 Education
-* **Master of Science**, **Artificial Intelligence Systems** – University of Florida, Gainesville, FL
-    * *Coursework:* AI Systems, Machine Learning, Image Processing, Deep Learning
-* **Bachelors of Computer Science and Engineering** – Vellore Institute of Technology - AP
 
----
+**MS, Artificial Intelligence Systems** · University of Florida *(Aug 2024 – Present)*  
+Coursework: AI Systems, Machine Learning, Image Processing, Deep Learning
 
-## 🌐 Connect & Stats
-
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blue&style=flat-square" alt="GitHub Profile Views"/> 
-</p>
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>](https://www.linkedin.com/in/praneeth-vempati-14988b1a34)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>](mailto:praneeth444vempati@gmail.com)
-[<img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=codesandbox&logoColor=white" alt="Portfolio Badge"/>](YOUR_PORTFOLIO_LINK)
-
----
-<p align="center">
-    **Seeking roles in ML Engineering, Data Science, and AI Development.** Let's connect and build the future!
-</p>
+**BTech, Computer Science & Engineering** · Vellore Institute of Technology – AP *(2019 – 2023)*
