@@ -102,7 +102,7 @@ Hand Gesture Recognition via CNN — led end-to-end under expert mentorship.
 
 ## 🎓 Education
 
-🟡 **MS, Artificial Intelligence Systems** · University of Florida *(Aug 2024 – Present)*
+🟡 **MS, Artificial Intelligence Systems** · University of Florida *(Aug 2024 – May 2026)*
 > AI Systems · Machine Learning · Image Processing · Deep Learning
 
 🔵 **BTech, Computer Science & Engineering** · Vellore Institute of Technology – AP *(2019 – 2023)*
