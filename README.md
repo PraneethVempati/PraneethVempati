@@ -57,7 +57,7 @@
 
 ## 💼 Experience
 
-**🔬 Research Assistant** · UF Levin College of Law *(Mar 2025 – Present)*
+**🔬 Research Assistant** · UF Levin College of Law *(Mar 2026 – Present)*
 Interactive constitutional research platform — dynamic search, rendering, built with law faculty.
 
 **📊 Data Science Intern** · SyrenCloud Technologies *(Jan – Jun 2024)*
